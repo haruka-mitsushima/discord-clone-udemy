@@ -8,7 +8,6 @@ function App() {
     <div className="App">
       {/* sidebar */}
       <Sidebar />
-
       {/* chat */}
       <Chat />
     </div>
